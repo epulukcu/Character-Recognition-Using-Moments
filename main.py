@@ -1,6 +1,5 @@
 """
 Name - Surname: Elif PULUKÇU
-Student ID: 041701017
 Date: 02.03.2020
 Program Explanation: This program recognizes character in a given image. To do that, takes the file as an input and convert it to a grey image,
 highlights the figures with the help of a red rectangle that located character. Crops the rectangle and resize it
